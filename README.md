@@ -26,3 +26,11 @@ Please ensure that your code follows the existing style and conventions, and inc
 
 # <strong> License </strong>
 This project is licensed under the MIT License.
+## <strong> acknowledgments: </strong>
+
+Thanks to the Node.js community for the platform.
+Thanks to the module developers for their work.
+Thanks to my mentor/teacher/friend for their guidance.
+Thanks to the testers for their help.
+Thanks to the open-source contributors for their feedback.
+Thanks to the users for trying out the app.
